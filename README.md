@@ -1,5 +1,5 @@
 # KernelSU for Mojito/Sunny
-![Banner](/img/KernelSU.png)
+![Banner](/KernelSU.png)
 ## ❗ ATTENTION
 If you use NetErnels in some rom and want to try the WestCoast or PixelExperience version of KernelSU, you must first flash the vendor_boot and dtbo of the rom and then try.
 
